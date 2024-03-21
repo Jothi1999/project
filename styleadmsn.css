@@ -1,0 +1,44 @@
+body{
+    
+    margin:0;
+    overflow-x: hidden;
+    
+}
+.form{
+    background-color: beige;
+    margin:50px;
+    padding:10px;
+    
+}
+h1{
+    color: #841684;;
+    margin-bottom:2%;
+    text-align: center;
+    font-weight:700;
+    font-family: 'Times New Roman', Times, serif;
+}
+.input-group{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;;
+    padding:10px;
+}
+button{
+    border:1px solid black;
+    border-radius: 5px;
+    padding:5px;
+    margin:5px;
+   width: 100%;
+   background-color: #841684;
+   color:white;
+   font-size: larger;
+  
+}
+.input-group input,select{
+    cursor:pointer;
+    padding:5px;
+    margin-top: 10px;
+    
+}
